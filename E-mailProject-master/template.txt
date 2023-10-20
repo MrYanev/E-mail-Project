@@ -1,0 +1,16 @@
+Dear ${PERSON_NAME},
+
+The team of Lauta kart track is pleased to provide you with your latest session lap times. This information will be also available under the "Sessions" section in your 
+Lauta track application.
+
+Session Date: ${SESSION_DATE}
+Kart: ${KART}
+
+Lap 1 - ${LAP_1}
+Lap 2 - ${LAP_2}
+Lap 3 - ${LAP_3}
+Lap 4 - ${LAP_4}
+Lap 5 - ${LAP_5}
+
+We hope to see you back on track soon!
+Thank you for choosing Lauta kart! 
